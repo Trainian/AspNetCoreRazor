@@ -1,0 +1,12 @@
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.csproj.AssemblyReference.cache
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.AssemblyInfoInputs.cache
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.AssemblyInfo.cs
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.csproj.CoreCompileInputs.cache
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/bin/Debug/net5.0/RazorSite.Entites.deps.json
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/bin/Debug/net5.0/RazorSite.Entites.dll
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/bin/Debug/net5.0/ref/RazorSite.Entites.dll
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/bin/Debug/net5.0/RazorSite.Entites.pdb
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.dll
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/ref/RazorSite.Entites.dll
+/home/user/Projects/AspNetCoreRazor/RazorSite.Entites/obj/Debug/net5.0/RazorSite.Entites.pdb

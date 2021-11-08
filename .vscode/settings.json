@@ -1,0 +1,6 @@
+{
+    "dataworkspace.excludedProjects": [
+        "RazorSite.Entites/TestProjectSQL/TestProjectSQL.sqlproj",
+        "RazorSite/DatabaseProjectRazorSiteDB/DatabaseProjectRazorSiteDB.sqlproj"
+    ]
+}
